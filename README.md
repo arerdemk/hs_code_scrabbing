@@ -9,3 +9,5 @@ We've connected with market research companies, after that I've decided to figur
 I've extracted data via Python pandas library and manipulated reliable data via Excel some functions.
 
 Here is that you can find my web scrabbing project. It's simple and effective. You can manipulate my codes into what you need.
+----
+As we know data is categorized structred, semi-structed and unstructed. This project is unstructed data because, unstructed data is data that is not conventionally organized if form of row.
